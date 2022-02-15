@@ -1,6 +1,7 @@
 # MagicalWalk
 3D walking simulator
 Made with Unity
+
 Watch the playthrough clicking the image below!
 https://youtu.be/uMG2iKQ3erE
 
