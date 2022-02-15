@@ -6,6 +6,8 @@ Watch the playthrough clicking the image below!
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uMG2iKQ3erE/0.jpg)](https://www.youtube.com/watch?v=uMG2iKQ3erE)
 
+##Images of Game
+
 ![alt text](https://github.com/JessieSu2/MagicalWalk/blob/main/Scenary.png)
 ![alt text](https://github.com/JessieSu2/MagicalWalk/blob/main/Scenary2.png)
 ![alt text](https://github.com/JessieSu2/MagicalWalk/blob/main/Scenary3.png)
